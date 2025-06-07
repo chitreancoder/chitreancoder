@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>🛡️ Full-Stack Engineer | Robotics Enthusiast 🤖</b><br/>
-  <i>I love crafting blazing-fast backends 🚀 using modern tech. In my free time, I tinker with robotics as a hobby 🤖.</i><br/>
+  <b>🛡️ Full-Stack Engineer </b><br/>
+  <i>I love crafting blazing-fast backends 🚀 using modern tech. </i><br/>
   <i>My other hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i>
 </p>
 
