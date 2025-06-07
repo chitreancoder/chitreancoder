@@ -1,12 +1,14 @@
-<h1 align="center">👋 Hey there, I'm Juan David aka chitreancoder</h1>
+<h1 align="center">👋 Hey there, I'm Juan David</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/a7z-Ly1LjRwAAAAC/shaman-king-anna.gif" width="200"/>
 </p>
 
 <p align="center">
-  <b>⚔️ Full-Stack Engineer | Anime Fan | Tech Warrior ⚡</b><br/>
-  <i>“It doesn't matter how powerful your opponent is. If you believe in your dreams, you can overcome anything.” – Yoh Asakura</i>
+  <b>🛡️ Full-Stack Engineer | Robotics Enthusiast 🤖</b><br/>
+  <i>Of course! Here's the updated version with a robotics touch:
+
+> ⚡ I love crafting blazing-fast backends 🚀 using modern tech 🧠 — making data flow like magic ✨. In my free time, I tinker with robotics 🤖 as a hobby!</i>
 </p>
 
 ---
@@ -22,32 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### 🚀 Projects
-
-- 🧠 **[3D DenseNet Alzheimer Classification](https://github.com/chitreancoder)** – MRI classification using 3D CNN ensemble
-- 💬 **Microservices-based Customer Experience Platform** – Enhanced with Kafka, Redis, and smart caching
-- 📈 **Real-time Analytics Platform** – Built with React, Node.js, TypeScript, and MongoDB
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitreancoder&show_icons=true&theme=tokyonight&hide_border=true" alt="chitreancoder's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitreancoder&layout=compact&theme=tokyonight&hide_border=true" alt="chitreancoder's Top Languages"/>
-</p>
-
----
-
-### 🖌️ Shaman King Vibes
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c3/10/52/c310528cfbf21c5e7d7a707e35be58fd.jpg" width="80%"/>
-</p>
 
 ---
 
