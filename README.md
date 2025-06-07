@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Juan David</h1>
+<h1 align="center">👋 Hey there, My name is Juan David</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/e2/c8/e8e2c843b851e4ad2135b1c93cacc22e.gif" width="200"/>
@@ -7,7 +7,7 @@
 <p align="center">
   <b>🛡️ Full-Stack Engineer </b><br/>
   <i>I love crafting blazing-fast backends 🚀 using modern tech. </i><br/>
-  <i>My other hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i>
+  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i>
 </p>
 
 ---
