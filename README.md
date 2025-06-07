@@ -6,9 +6,7 @@
 
 <p align="center">
   <b>🛡️ Full-Stack Engineer | Robotics Enthusiast 🤖</b><br/>
-  <i>Of course! Here's the updated version with a robotics touch:
-
-> ⚡ I love crafting blazing-fast backends 🚀 using modern tech 🧠 — making data flow like magic ✨. In my free time, I tinker with robotics 🤖 as a hobby!</i>
+  <i>⚡ I love crafting blazing-fast backends 🚀 using modern tech 🧠 — making data flow like magic ✨. In my free time, I tinker with robotics 🤖 as a hobby!</i>
 </p>
 
 ---
