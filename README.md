@@ -33,4 +33,3 @@
 
 - 💌 Email: juandruiz298@gmail.com  
 - 🔗 LinkedIn: [juan-david-ruiz-cohen](https://www.linkedin.com/in/juan-david-ruiz-cohen-a14b23174/)
-- 🌐 Portfolio: Coming soon...
