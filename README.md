@@ -23,9 +23,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-> 🧠 Currently learning: **Rust** 🦀
+> 🧪 Currently working on a secure file and text transfer app that runs between iPhone and Windows/Linux desktops via a web browser, focusing on fast and seamless device-to-device communication.
 
 ---
 
