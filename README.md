@@ -24,7 +24,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-> 🧪 Currently working on a secure file and text transfer app that runs between iPhone and Windows/Linux desktops via a web browser, focusing on fast and seamless device-to-device communication.
+> 🧪 Currently working on a secure file and text transfer webapp that allows fast and seamless device-to-device communication.
 
 ---
 
