@@ -8,7 +8,7 @@
   <b>🎯 Software Engineer </b><br/>
   <i>Transitioning from full-stack to specialized backend development 🚀</i><br/>
   <i>Passionate about live services, real-time systems, and gaming backend infrastructure 🎮</i><br/>
-  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i>
+  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
