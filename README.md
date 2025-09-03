@@ -39,5 +39,5 @@ I'm currently learning **C#, .NET and Unity** with the goal in mind of building 
 
 ### 📫 Contact
 
-- 💌 Email: juandruiz298@gmail.com  
+- 💌 Email: jdrc2908@gmail.com  
 - 🔗 LinkedIn: [juan-david-ruiz-cohen](https://www.linkedin.com/in/juan-david-ruiz-cohen-a14b23174/)
