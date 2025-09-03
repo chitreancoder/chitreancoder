@@ -6,8 +6,8 @@
 
 <p align="center">
   <b>🎯 Software Engineer </b><br/>
-  <i>Enthusiast about real-time systems, live services and gaming development 🎮</i><br/>
-  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽ and writing code from time to time.</i><br/>
+  <i>Enthusiastic about real-time systems, live services and gaming development 🎮</i><br/>
+  <i>My hobbies include watching anime/series 📺, playing metroidvanias and ARPGs 🎮, playing football ⚽, and writing code from time to time.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently learning **C#, .NET and Unity** with the goal in mind of building some games and maybe get in the gaming industry.
+I'm currently learning **C#, .NET and Unity** with the goal of entering the gaming industry.
 
 ### 💻 Tech Stack
 
@@ -34,10 +34,40 @@ I'm currently learning **C#, .NET and Unity** with the goal in mind of building 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chitreancoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitreancoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect!
 
-- 💌 Email: juandruiz298@gmail.com  
-- 🔗 LinkedIn: [juan-david-ruiz-cohen](https://www.linkedin.com/in/juan-david-ruiz-cohen-a14b23174/)
+<p align="center">
+  <a href="mailto:juandruiz298@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-david-ruiz-cohen-a14b23174/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/chitreancoder">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chitreancoder&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+
