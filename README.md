@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm Juan David</h1>
 
 <p align="center">
-  <img **src**="https://i.pinimg.com/originals/e8/e2/c8/e8e2c843b851e4ad2135b1c93cacc22e.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/e8/e2/c8/e8e2c843b851e4ad2135b1c93cacc22e.gif" width="200"/>
 </p>
 
 <p align="center">
@@ -73,6 +73,9 @@ I'm currently learning **C#, .NET and Unity** with the goal of entering the gami
   </a>
   <a href="https://github.com/chitreancoder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/15dgrXI9QdP0-Xr03sbX9E0_Md9VEiMVL/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
