@@ -7,7 +7,7 @@
 <p align="center">
   <b>🎯 Software Engineer </b><br/>
   <i>Enthusiast about real-time systems, live services and gaming development 🎮</i><br/>
-  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽ and writing code from time to time.</i><br/>
+  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, playing football ⚽ and writing code from time to time.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
