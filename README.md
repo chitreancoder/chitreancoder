@@ -6,9 +6,8 @@
 
 <p align="center">
   <b>🎯 Software Engineer </b><br/>
-  <i>Transitioning from full-stack to specialized backend development 🚀</i><br/>
-  <i>Passionate about live services, real-time systems, and gaming backend infrastructure 🎮</i><br/>
-  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽.</i><br/>
+  <i>Enthusiast about real-time systems, live services and gaming development 🎮</i><br/>
+  <i>My hobbies include watching anime / series 📺, playing metroidvania's and ARPGs 🎮, and playing football ⚽ and writing code from time to time.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
@@ -16,7 +15,7 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently in an exciting transition from full-stack web development to **specialized backend engineering**, with a strong focus on **C# and .NET ecosystem**. My goal is to become a backend expert in gaming industry, particularly for live services and cloud-deployed systems.
+I'm currently learning **C#, .NET and Unity** with the goal in mind of building some games and maybe get in the gaming industry.
 
 ### 💻 Tech Stack
 
@@ -34,7 +33,6 @@ I'm currently in an exciting transition from full-stack web development to **spe
 **Learning & Expanding:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
