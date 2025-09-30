@@ -6,8 +6,8 @@
 
 <p align="center">
   <b>🎯 Software Engineer </b><br/>
-  <i>Enthusiastic about real-time systems, live services and gaming development 🎮</i><br/>
-  <i>My hobbies include watching anime/series 📺, playing metroidvanias and ARPGs 🎮, playing football ⚽, and writing code from time to time.</i><br/>
+  <i>Enthusiastic about real-time systems and gaming development 🎮</i><br/>
+  <i>My hobbies include watching anime/series 📺, playing videogames (my favs are metroidvanias and ARPGs) 🎮, playing football ⚽, and writing code from time to time.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently learning **C#, .NET and Unity** with the goal of entering the gaming industry.
+I'm currently learning **C#, .NET and Unity** for a hobby project.
 
 ### 💻 Tech Stack
 
@@ -65,7 +65,7 @@ I'm currently learning **C#, .NET and Unity** with the goal of entering the gami
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:juandruiz298@gmail.com">
+  <a href="mailto:jdrc2908@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/juan-david-ruiz-cohen-a14b23174/">
