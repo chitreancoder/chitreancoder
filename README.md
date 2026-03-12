@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>🎯 Software Engineer </b><br/>
-  <i>Enthusiastic about real-time systems</i><br/>
+  <i>Enthusiastic about robotics, real-time systems, and building things that come to life</i><br/>
   <i>My hobbies include watching anime/series 📺, playing videogames (my favs are metroidvanias and ARPGs) 🎮, playing football ⚽, and writing code from time to time.</i><br/>
   <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
@@ -15,7 +15,7 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently learning **C#, .NET and Unity** for a hobby project.
+I'm currently diving into **robotics** — learning **Python and ROS 2** to understand how real-world systems perceive, decide, and move.
 
 ### 💻 Tech Stack
 
@@ -25,9 +25,8 @@ I'm currently learning **C#, .NET and Unity** for a hobby project.
 
 **🎯 Current Focus**
 <br/><br/>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -37,7 +36,6 @@ I'm currently learning **C#, .NET and Unity** for a hobby project.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -57,10 +55,23 @@ I'm currently learning **C#, .NET and Unity** for a hobby project.
 <br/><br/>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Monorepos](https://img.shields.io/badge/Monorepos-2C3E50?style=for-the-badge&logo=turborepo&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+### 🔬 Featured Project
+
+<a href="https://github.com/chitreancoder/3D-Densenet-Alzheimer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chitreancoder&repo=3D-Densenet-Alzheimer&theme=default" />
+</a>
+
+<br/><br/>
 
 ### 📫 Let's Connect!
 
