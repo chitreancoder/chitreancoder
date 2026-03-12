@@ -5,16 +5,19 @@
 </p>
 
 <p align="center">
-  <b>🎯 Software Engineer</b><br/>
+  <b>🎯 Software Engineer</b>
+</p>
+
+<p align="center">
   <i>Enthusiastic about robotics, real-time systems, and building things that come to life</i>
 </p>
 
 <p align="center">
-  📺 Anime & series &nbsp;·&nbsp; 🎮 Metroidvanias & ARPGs &nbsp;·&nbsp; ⚽ Football &nbsp;·&nbsp; 💻 Coding
+  <i>My hobbies include watching anime/series 📺, playing videogames (my favs are metroidvanias and ARPGs) 🎮, playing football ⚽, and writing code from time to time.</i>
 </p>
 
 <p align="center">
-  <sub>(Yes, the 'hello there' is a Star Wars reference.)</sub>
+  <i>(Yes the 'hello there' is a Star Wars reference.)</i>
 </p>
 
 ---
