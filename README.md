@@ -5,17 +5,23 @@
 </p>
 
 <p align="center">
-  <b>🎯 Software Engineer </b><br/>
-  <i>Enthusiastic about robotics, real-time systems, and building things that come to life</i><br/>
-  <i>My hobbies include watching anime/series 📺, playing videogames (my favs are metroidvanias and ARPGs) 🎮, playing football ⚽, and writing code from time to time.</i><br/>
-  <i>(Yes the 'hello there' is a Star Wars reference.)</i>
+  <b>🎯 Software Engineer</b><br/>
+  <i>Enthusiastic about robotics, real-time systems, and building things that come to life</i>
+</p>
+
+<p align="center">
+  📺 Anime & series &nbsp;·&nbsp; 🎮 Metroidvanias & ARPGs &nbsp;·&nbsp; ⚽ Football &nbsp;·&nbsp; 💻 Coding
+</p>
+
+<p align="center">
+  <sub>(Yes, the 'hello there' is a Star Wars reference.)</sub>
 </p>
 
 ---
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently diving into **robotics** — learning **Python and ROS 2** to understand how real-world systems perceive, decide, and move.
+I'm currently diving into robotics — learning Python and ROS 2 to understand how real-world systems perceive, decide, and move.
 
 ### 💻 Tech Stack
 
