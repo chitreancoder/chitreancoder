@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Enthusiastic about robotics, real-time systems, and building things that come to life</i>
+  <i>Enthusiastic about real-time systems and building things that come to life</i>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently diving into robotics — learning Python and ROS 2 to understand how real-world systems perceive, decide, and move.
+I'm currently working on my side project [differ](https://github.com/chitreancoder/differ) — a simple git diff app for viewing changes in a cleaner, more readable way.
 
 ### 💻 Tech Stack
 
@@ -34,8 +34,7 @@ I'm currently diving into robotics — learning Python and ROS 2 to understand h
 
 **🎯 Current Focus**
 <br/><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </td>
 <td align="center" width="50%">
