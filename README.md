@@ -31,7 +31,7 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 <table align="center">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
 **⚡ Languages & Frameworks**
 <br/><br/>
@@ -42,7 +42,7 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 **🗄️ Databases**
 <br/><br/>
@@ -52,7 +52,7 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
 **☁️ Infrastructure & Tools**
 <br/><br/>
@@ -72,11 +72,12 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 
 ### 🔬 Featured Project
 
-<a href="https://dariacohenbr.com/">
-  <img align="center" src="https://dariacohenbr.com/_next/static/media/logo.f2d2e0dd.png" />
-</a>
+<p>
+  <img src="https://dariacohenbr.com/_next/static/media/logo.f2d2e0dd.png" width="48" align="center" />
+  &nbsp;<a href="https://dariacohenbr.com/"><b>Daria Cohen</b></a> — portfolio site built with Next.js.
+</p>
 
-<br/><br/>
+<br/>
 
 ### 📫 Let's Connect!
 
