@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Enthusiastic about real-time systems and building things that come to life</i>
+  <i>Enthusiastic about building stuff that feeeels snappy.</i>
 </p>
 
 <p align="center">
@@ -24,19 +24,13 @@
 
 ### 🎯 Current Focus & Learning Journey
 
-I'm currently working on my side project [differ](https://github.com/chitreancoder/differ) — a simple git diff app for viewing changes in a cleaner, more readable way.
+I'm currently working on my side project [differ](https://github.com/chitreancoder/differ) — a simple git diff app for viewing changes in a clean way and being able to integrate in a workflow with claude code.
 
 ### 💻 Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
 
-**🎯 Current Focus**
-<br/><br/>
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</td>
 <td align="center" width="50%">
 
 **⚡ Languages & Frameworks**
@@ -78,8 +72,8 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 
 ### 🔬 Featured Project
 
-<a href="https://github.com/chitreancoder/3D-Densenet-Alzheimer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chitreancoder&repo=3D-Densenet-Alzheimer&theme=default" />
+<a href="https://dariacohenbr.com/">
+  <img align="center" src="https://dariacohenbr.com/_next/static/media/logo.f2d2e0dd.png" />
 </a>
 
 <br/><br/>
