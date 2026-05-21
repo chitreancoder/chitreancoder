@@ -74,7 +74,7 @@ I'm currently working on my side project [differ](https://github.com/chitreancod
 
 <p>
   <img src="https://dariacohenbr.com/_next/static/media/logo.f2d2e0dd.png" width="48" align="center" />
-  &nbsp;<a href="https://dariacohenbr.com/"><b>Daria Cohen</b></a> — portfolio site built with Next.js.
+  &nbsp;<a href="https://dariacohenbr.com/"><b>Daría Cohen Bienes Raíces</b></a> — a real estate platform for properties in Panama (Next.js + FastAPI), with an admin dashboard and scheduling.
 </p>
 
 <br/>
